@@ -11,8 +11,8 @@ layers:
   - S
   - D
   - T
-  - H
   - Gui+Sft+5
+  - Gui+C
   - Gui+TAB
   - Gui+V
   - Z
