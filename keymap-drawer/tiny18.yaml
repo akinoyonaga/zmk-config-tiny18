@@ -13,8 +13,8 @@ layers:
   - T
   - H
   - {t: K, h: '3'}
-  - {t: L, h: '1'}
-  - {t: ENTER, h: RIGHT SHIFT}
+  - Gui+Sft+5
+  - Gui+V
   - Z
   - G
   - M
@@ -32,7 +32,7 @@ layers:
   - .
   - SPACE
   - RIGHT GUI
-  - {type: held}
+  - {t: ▽, type: trans}
   - RIGHT SHIFT
   - ;
   - '-'
